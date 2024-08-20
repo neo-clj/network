@@ -1,6 +1,6 @@
 # priority
 
-wire
+wireguard
 
 vpn
 
